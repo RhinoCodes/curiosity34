@@ -5,6 +5,7 @@ This keyboard is inspired by the reviung 34 by @gtips. In fact, it uses the exac
 * USB-C Through C3 Daughterboard
 
 A GB will be running with this design and a custom milled POM case in colaboration with Glow#2411 on Discord.
+Join [Glow's discord](https://discord.gg/yF7jkNbdqk) for updates
 
 Contact: sudo killall windows#0042
 
